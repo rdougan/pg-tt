@@ -6,24 +6,40 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>8CF6A0C7-FB01-41DE-8750-1FAC04D5E907</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tinktime</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>92A3DC5106EAE9D13F600D8924264BE668785878</key>
+		<string>https://github.com/shikarkhane/pg-tt.git</string>
 		<key>F878BFA9055E18C6E698BBDE13BB4C50A2455F8B</key>
 		<string>https://github.com/shikarkhane/tt-sencha.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Tinktime.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>92A3DC5106EAE9D13F600D8924264BE668785878</key>
+		<string>../../../..</string>
 		<key>F878BFA9055E18C6E698BBDE13BB4C50A2455F8B</key>
-		<string>tt-sencha/</string>
+		<string>../../../../../tt-sencha</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/shikarkhane/tt-sencha.git</string>
+	<string>https://github.com/shikarkhane/pg-tt.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F878BFA9055E18C6E698BBDE13BB4C50A2455F8B</string>
+	<string>92A3DC5106EAE9D13F600D8924264BE668785878</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>92A3DC5106EAE9D13F600D8924264BE668785878</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pg-tinktime</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
