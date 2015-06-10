@@ -531,7 +531,6 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = Tinktime;
-				PROVISIONING_PROFILE = "30affb0c-5b45-4342-bc30-5f649952c757";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -569,7 +568,6 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = Tinktime;
-				PROVISIONING_PROFILE = "30affb0c-5b45-4342-bc30-5f649952c757";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
