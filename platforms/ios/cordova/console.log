@@ -150,3 +150,123 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-06-10 17:59:21.570 Tinktime[90148:39599788] TestFairy: Session started successfully
 2015-06-10 17:59:21.708 Tinktime[90148:39599788]  - remote notifications are not supported in the simulator
 2015-06-10 17:59:22.339 Tinktime[90148:39599788] show phone number
+2015-06-11 12:24:17.223 Tinktime[5798:42004371] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Data/Application/A4604D64-04E6-4A3E-9016-BF121357648E/Library/Cookies/Cookies.binarycookies
+2015-06-11 12:24:17.382 Tinktime[5798:42004371] TestFairy: Initializing SDK version 20150222-796aafb6
+2015-06-11 12:24:17.409 Tinktime[5798:42004371] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-11 12:24:17.409 Tinktime[5798:42004371] Multi-tasking -> Device: YES, App: YES
+2015-06-11 12:24:17.418 Tinktime[5798:42004371] Unlimited access to network resources
+2015-06-11 12:24:17.424 Tinktime[5798:42004371] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-11 12:24:17.710 Tinktime[5798:42004371] active
+2015-06-11 12:24:17.805 Tinktime[5798:42004371] Resetting plugins due to page load.
+2015-06-11 12:24:18.293 Tinktime[5798:42004371] Finished load of: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Bundle/Application/29C4F161-7E6E-4A5C-8CE4-579BEA435826/Tinktime.app/www/index.html
+2015-06-11 12:24:18.799 Tinktime[5798:42004371] TestFairy: Session started successfully
+2015-06-11 12:24:19.011 Tinktime[5798:42004490] TestFairy: t => log_time=212
+2015-06-11 12:24:20.324 Tinktime[5798:42004371]  - remote notifications are not supported in the simulator
+2015-06-11 12:24:25.874 Tinktime[5798:42004371] show phone number
+2015-06-11 12:24:34.417 Tinktime[5798:42004371] Verification code doesnt match
+2015-06-11 12:24:35.487 Tinktime[5798:42004371] Verification code doesnt match
+2015-06-11 12:24:45.119 Tinktime[5798:42004371] Verification code doesnt match
+2015-06-11 12:25:48.846 Tinktime[5798:42004371] Verification code doesnt match
+2015-06-11 12:26:03.559 Tinktime[5986:42018233] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Data/Application/CB9A1FBC-4C2C-4D1A-9610-AAD5E6C2ED19/Library/Cookies/Cookies.binarycookies
+2015-06-11 12:26:03.794 Tinktime[5986:42018233] TestFairy: Initializing SDK version 20150222-796aafb6
+2015-06-11 12:26:03.808 Tinktime[5986:42018233] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-11 12:26:03.808 Tinktime[5986:42018233] Multi-tasking -> Device: YES, App: YES
+2015-06-11 12:26:03.810 Tinktime[5986:42018233] Unlimited access to network resources
+2015-06-11 12:26:03.812 Tinktime[5986:42018233] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-11 12:26:03.963 Tinktime[5986:42018233] active
+2015-06-11 12:26:04.024 Tinktime[5986:42018233] Resetting plugins due to page load.
+2015-06-11 12:26:04.385 Tinktime[5986:42018233] Finished load of: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Bundle/Application/C7D49F10-1826-4B3B-A280-6176DDB1B616/Tinktime.app/www/index.html
+2015-06-11 12:26:04.822 Tinktime[5986:42018233] TestFairy: Session started successfully
+2015-06-11 12:26:15.836 Tinktime[5986:42018233]  - remote notifications are not supported in the simulator
+2015-06-11 12:26:20.190 Tinktime[5986:42018233] show phone number
+2015-06-11 12:27:28.015 Tinktime[6243:42029909] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Data/Application/5B232F7E-31F2-4CBC-8127-2F9F0C568690/Library/Cookies/Cookies.binarycookies
+2015-06-11 12:27:28.217 Tinktime[6243:42029909] TestFairy: Initializing SDK version 20150222-796aafb6
+2015-06-11 12:27:28.231 Tinktime[6243:42029909] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-11 12:27:28.231 Tinktime[6243:42029909] Multi-tasking -> Device: YES, App: YES
+2015-06-11 12:27:28.232 Tinktime[6243:42029909] Unlimited access to network resources
+2015-06-11 12:27:28.234 Tinktime[6243:42029909] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-11 12:27:28.385 Tinktime[6243:42029909] active
+2015-06-11 12:27:28.432 Tinktime[6243:42029909] Resetting plugins due to page load.
+2015-06-11 12:27:28.795 Tinktime[6243:42029909] Finished load of: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Bundle/Application/A1E4A782-9094-4CE2-93E9-B5D24BB00958/Tinktime.app/www/index.html
+2015-06-11 12:27:29.230 Tinktime[6243:42029909] TestFairy: Session started successfully
+2015-06-11 12:27:32.394 Tinktime[6243:42029909]  - remote notifications are not supported in the simulator
+2015-06-11 12:27:36.682 Tinktime[6243:42029909] show phone number
+2015-06-11 12:42:52.843 Tinktime[6789:42156862] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Data/Application/704A2A52-6314-4F02-AE99-C1706A3C422D/Library/Cookies/Cookies.binarycookies
+2015-06-11 12:42:53.064 Tinktime[6789:42156862] TestFairy: Initializing SDK version 20150222-796aafb6
+2015-06-11 12:42:53.078 Tinktime[6789:42156862] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-11 12:42:53.078 Tinktime[6789:42156862] Multi-tasking -> Device: YES, App: YES
+2015-06-11 12:42:53.080 Tinktime[6789:42156862] Unlimited access to network resources
+2015-06-11 12:42:53.082 Tinktime[6789:42156862] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-11 12:42:53.237 Tinktime[6789:42156862] active
+2015-06-11 12:42:53.298 Tinktime[6789:42156862] Resetting plugins due to page load.
+2015-06-11 12:42:53.678 Tinktime[6789:42156862] Finished load of: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Bundle/Application/86E412F3-4A32-45E2-ABB6-576FDD0273D7/Tinktime.app/www/index.html
+2015-06-11 12:42:54.101 Tinktime[6789:42156862] TestFairy: Session started successfully
+2015-06-11 12:43:48.322 Tinktime[6789:42156862]  - remote notifications are not supported in the simulator
+2015-06-11 12:43:54.678 Tinktime[6789:42165260] Terminating since there is no system app.
+2015-06-11 12:44:09.533 Tinktime[6983:42167662] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Data/Application/5A6A7054-B00B-4BF7-9DA8-35E45A558B33/Library/Cookies/Cookies.binarycookies
+2015-06-11 12:44:09.590 Tinktime[6983:42167662] TestFairy: Initializing SDK version 20150222-796aafb6
+2015-06-11 12:44:09.604 Tinktime[6983:42167662] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-11 12:44:09.604 Tinktime[6983:42167662] Multi-tasking -> Device: YES, App: YES
+2015-06-11 12:44:09.605 Tinktime[6983:42167662] Unlimited access to network resources
+2015-06-11 12:44:09.608 Tinktime[6983:42167662] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-11 12:44:09.751 Tinktime[6983:42167662] active
+2015-06-11 12:44:09.778 Tinktime[6983:42167662] Resetting plugins due to page load.
+2015-06-11 12:44:10.135 Tinktime[6983:42167662] Finished load of: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Bundle/Application/AEB83DB0-3D4D-4CDD-8A67-20A3087C885E/Tinktime.app/www/index.html
+2015-06-11 12:44:10.580 Tinktime[6983:42167662] TestFairy: Session started successfully
+2015-06-11 12:44:11.268 Tinktime[6983:42167662]  - remote notifications are not supported in the simulator
+2015-06-11 12:44:36.074 Tinktime[6983:42167662] destroy
+2015-06-11 12:44:54.048 Tinktime[6983:42167662] destroy
+2015-06-11 12:45:17.832 Tinktime[6983:42167662] destroy
+2015-06-11 12:46:50.024 Tinktime[7231:42190689] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Data/Application/56ED6562-FFAC-4438-942B-E5A02DE76885/Library/Cookies/Cookies.binarycookies
+2015-06-11 12:46:50.081 Tinktime[7231:42190689] TestFairy: Initializing SDK version 20150222-796aafb6
+2015-06-11 12:46:50.094 Tinktime[7231:42190689] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-11 12:46:50.095 Tinktime[7231:42190689] Multi-tasking -> Device: YES, App: YES
+2015-06-11 12:46:50.096 Tinktime[7231:42190689] Unlimited access to network resources
+2015-06-11 12:46:50.098 Tinktime[7231:42190689] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-11 12:46:50.239 Tinktime[7231:42190689] active
+2015-06-11 12:46:50.275 Tinktime[7231:42190689] Resetting plugins due to page load.
+2015-06-11 12:46:50.638 Tinktime[7231:42190689] Finished load of: file:///Users/Robert/Library/Developer/CoreSimulator/Devices/2FEFC01C-EA4D-4291-8CDF-CBA0F3D6A0BF/data/Containers/Bundle/Application/F99151F2-7C8D-4E83-9241-62B76F6E1C08/Tinktime.app/www/index.html
+2015-06-11 12:46:51.035 Tinktime[7231:42190689] TestFairy: Session started successfully
+2015-06-11 12:46:51.782 Tinktime[7231:42190689]  - remote notifications are not supported in the simulator
