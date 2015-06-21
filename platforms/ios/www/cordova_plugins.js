@@ -111,6 +111,14 @@ module.exports = [
         "clobbers": [
             "device"
         ]
+    },
+    {
+        "file": "plugins/org.apache.cordova.vibration/www/vibration.js",
+        "id": "org.apache.cordova.vibration.notification",
+        "merges": [
+            "navigator.notification",
+            "navigator"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -120,7 +128,8 @@ module.exports.metadata =
     "org.apache.cordova.plugin.sms": "0.1.0",
     "org.apache.cordova.console": "0.2.14-dev",
     "com.phonegap.plugins.PushPlugin": "2.4.0",
-    "org.apache.cordova.device": "0.3.0"
+    "org.apache.cordova.device": "0.3.0",
+    "org.apache.cordova.vibration": "0.3.13"
 }
 // BOTTOM OF METADATA
 });
